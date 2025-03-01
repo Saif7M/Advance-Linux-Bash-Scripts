@@ -14,5 +14,10 @@ This repository contains essential Bash scripts for:
 
   
 - Security (SSH monitoring)
+  3️⃣ Real-time SSH Intrusion Detection
+    ✅ Purpose: Monitors /var/log/auth.log for failed SSH login attempts.
+    ✅ Use Case: Helps detect brute-force attacks and blocks attackers.
+
+  
 - Backup automation
 - Kubernetes pod auto-restart
