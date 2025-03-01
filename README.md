@@ -19,5 +19,11 @@ This repository contains essential Bash scripts for:
     ✅ Use Case: Helps detect brute-force attacks and blocks attackers.
 
   
-- Backup automation
-- Kubernetes pod auto-restart
+- Backup automation - 4️⃣ Automated Backup Script
+  ✅ Purpose: Automates database or file backups.
+  ✅ Use Case: Ensures production data is regularly backed up.
+
+  
+- Kubernetes pod auto-restart - 5️⃣ Kubernetes Pod Auto-Restart on Crash
+  ✅ Purpose: Checks if any pod is in CrashLoopBackOff and restarts it.
+  ✅ Use Case: Ensures high availability of microservices in Kubernetes.
