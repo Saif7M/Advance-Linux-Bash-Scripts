@@ -27,3 +27,6 @@ This repository contains essential Bash scripts for:
 - Kubernetes pod auto-restart - 5️⃣ Kubernetes Pod Auto-Restart on Crash
   ✅ Purpose: Checks if any pod is in CrashLoopBackOff and restarts it.
   ✅ Use Case: Ensures high availability of microservices in Kubernetes.
+
+- Automating User Access Management - userAccessRm.sh
+  ✅ Automatically removes inactive users based on last login time.
