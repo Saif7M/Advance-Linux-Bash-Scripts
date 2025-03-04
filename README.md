@@ -30,3 +30,13 @@ This repository contains essential Bash scripts for:
 
 - Automating User Access Management - userAccessRm.sh
   ✅ Automatically removes inactive users based on last login time.
+
+
+-  Kubernetes Cluster Health Check
+  ✅ Monitors pod health and restarts failed pods.
+
+- Automating System Updates & Patching
+  ✅ Keeps the system updated and secure.
+
+- Automatic SSL Certificate Renewal (Let's Encrypt)
+  ✅ Ensures SSL certificates are renewed before expiration.
